@@ -233,3 +233,4 @@ gradle-app.setting
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,java,eclipse,netbeans,gradle,git
 /.idea/
+.vscode/settings.json
